@@ -1,1 +1,3 @@
 test
+
+alt+shift+downkey     to copy and paste code

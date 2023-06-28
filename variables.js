@@ -28,3 +28,4 @@ const id = {
 
 console.log(id["age"]);
 console.log(id.student);
+
