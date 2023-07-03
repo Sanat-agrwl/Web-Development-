@@ -1,5 +1,6 @@
 // first.className = "red"
 // first.clasList
+// first.clasList.toogle("red")
 // first.classList.remove("red")
 // first.classList.add("red")
 
@@ -8,7 +9,7 @@
 //     alert("i am set timeout")
 // }, 3000)
 
-// setTimeout(sum,1000,1,2)  //to add 1,2 
+// setTimeout(sum,1000,1,2)  //to add 1,2
 
 // to clear timeout
 // clearTimeout(a)
