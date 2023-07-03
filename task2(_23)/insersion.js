@@ -13,3 +13,11 @@ a.appendChild(div);
 // Node.prepend(a)
 // Node.before(a)
 // Node.after(a)
+
+//first.insertAdjacentHTML('beforebegin',"<h1>HELLO</h1>")
+//first.insertAdjacentHTML('beforeend',"<h1>HELLO</h1>")
+//first.insertAdjacentHTML('afterbegin',"<h1>HELLO</h1>")
+//first.insertAdjacentHTML('afterend',"<h1>HELLO</h1>")
+
+//to remove a node
+//elem.remover() //first.remove()
