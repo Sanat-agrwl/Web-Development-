@@ -16,7 +16,7 @@ document.getElementById("remove").addEventListener('click', (e) => {
 
     e.preventDefault()
     let dr = document.getElementById("output").getElementsByTagName("div")[document.getElementById("output").getElementsByTagName("div").length - 1]
-    dr.remove()
+    document.getElementById("output").removeChild(dr)
     localStorage.removeItem(c)
     c--;
 
